@@ -1,0 +1,3 @@
+org.springframework.boot.autoconfigure.EnableAutoConfiguration=\
+com.wgcisotto.justgifit.configuration.JustGifItConfig,\
+com.wgcisotto.justgifit.configuration.JustGifItPropertiesConfig
