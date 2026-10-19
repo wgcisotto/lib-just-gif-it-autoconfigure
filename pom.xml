@@ -18,7 +18,7 @@
     <properties>
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
         <java.version>1.8</java.version>
-        <javacv.version>1.1</javacv.version>
+        <javacv.version>1.5.14</javacv.version>
 <!--        <javax.inject.version>1</javax.inject.version>-->
         <animated.gif.lib.version>1.2</animated.gif.lib.version>
     </properties>
